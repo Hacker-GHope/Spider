@@ -129,10 +129,10 @@ def parse_item_xpath(html):
 
 # 将数据本地化
 def write_json(items):
-    movie_json = json.dumps(items, ensure_ascii=False, check_circular=True)
+    info_json = json.dumps(items, ensure_ascii=False, check_circular=True)
     filename = './豆瓣小组精选'
     with open(filename, "a", encoding='utf-8') as f:
-        f.write(movie_json)
+        f.write(info_json)
 
 
 # 主程序
