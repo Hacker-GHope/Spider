@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f673fdd2-b4f3-451d-a123-6a09b5c7e3f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spider_anjukeNewHouse/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spider_anjukeNewHouse/Spider_anjukeNewHouse.py" afterDir="false" />
+    <list default="true" id="ecc458df-998a-4de9-92eb-93c5bea69d5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider_anjukeNewHouse.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Spider_maoyantop100/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_mugujie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_mugujie/sports.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_doubanGroupExplore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_doubanGroupExplore/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spider_maoyantop100/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_maoyantop100/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,15 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="693629031">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="443812785">
+    <session id="877523697">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
@@ -34,24 +28,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="2" />
-          <entry key="豆瓣小组精选" value="8" />
+          <entry key="安居客攀枝花新楼" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="45" />
-          <entry key="py" value="1133" />
+          <entry key="py" value="688" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1178" />
+          <entry key="Python" value="688" />
         </counts>
       </usages-collector>
     </session>
@@ -59,14 +52,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doubanGroupExplore.py">
+        <entry file="file://$PROJECT_DIR$/Spider_anjukeNewHouse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3668">
-              <caret line="131" selection-start-line="131" selection-end-line="134" selection-end-column="27" />
+            <state relative-caret-position="286">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
               <folding>
-                <element signature="e#161#172#0" expanded="true" />
-                <marker date="1540273315213" expanded="true" signature="3577:3792" ph="..." />
-                <marker date="1540273315213" expanded="true" signature="3600:3786" ph="..." />
+                <element signature="e#164#175#0" expanded="true" />
+                <marker date="1540286226450" expanded="true" signature="250:1412" ph="..." />
               </folding>
             </state>
           </provider>
@@ -87,13 +79,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/doubanGroupExplore.py" />
+        <option value="$PROJECT_DIR$/Spider_anjukeNewHouse.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="70" />
-    <option name="y" value="130" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-5" />
+    <option name="y" value="142" />
     <option name="width" value="1890" />
     <option name="height" value="865" />
   </component>
@@ -103,23 +95,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Spider_doubanGroupExplore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spider_doubanGroupExplore" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider_anjukeNewHouse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spider_anjukeNewHouse" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spider_maoyantop100" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,8 +125,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="doubanGroupExplore" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider_doubanGroupExplore" />
+    <configuration name="Spider_anjukeNewHouse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider_anjukeNewHouse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -146,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/doubanGroupExplore.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider_anjukeNewHouse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +148,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.doubanGroupExplore" />
+        <item itemvalue="Python.Spider_anjukeNewHouse" />
       </list>
     </recent_temporary>
   </component>
@@ -166,29 +157,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f673fdd2-b4f3-451d-a123-6a09b5c7e3f5" name="Default Changelist" comment="" />
-      <created>1540258507274</created>
+      <changelist id="ecc458df-998a-4de9-92eb-93c5bea69d5e" name="Default Changelist" comment="" />
+      <created>1540280436113</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540258507274</updated>
+      <updated>1540280436113</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14464994" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14927346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3297587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35973155" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37181208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3409396" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -200,26 +191,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/豆瓣小组精选">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1130727989/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret column="174" lean-forward="true" selection-start-column="174" selection-end-column="174" />
-        </state>
-      </provider>
-      <provider editor-type-id="LargeFileEditor">
-        <state relative-caret-position="112">
-          <caret column="4962" lean-forward="true" selection-start-column="4962" selection-end-column="4962" />
+        <state relative-caret-position="-94">
+          <caret line="4979" column="8" selection-start-line="4979" selection-start-column="8" selection-end-line="4979" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/doubanGroupExplore.py">
+    <entry file="file://$PROJECT_DIR$/安居客攀枝花新楼">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider_anjukeNewHouse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3668">
-          <caret line="131" selection-start-line="131" selection-end-line="134" selection-end-column="27" />
+        <state relative-caret-position="286">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
           <folding>
-            <element signature="e#161#172#0" expanded="true" />
-            <marker date="1540273315213" expanded="true" signature="3577:3792" ph="..." />
-            <marker date="1540273315213" expanded="true" signature="3600:3786" ph="..." />
+            <element signature="e#164#175#0" expanded="true" />
+            <marker date="1540286226450" expanded="true" signature="250:1412" ph="..." />
           </folding>
         </state>
       </provider>
