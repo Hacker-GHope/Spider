@@ -29,7 +29,9 @@ def get_real_content(html):
     # 判断页面存在且有数据
     if html and len(html) > 128:
         # 得到json数据
-        html1 = html.split('(')[1][:-2]
+        i = html.index('(')
+        html1 = html[i+1:]
+        html1 = html1.replace(');', '')
         return html1
     return None
 
@@ -78,17 +80,19 @@ def join_mysql(filed):
     # 连接数据库
     cursor = db.cursor()
     for i in range(len(filed)):
-        sql = "INSERT INTO sports(title,img,orgPrice,sale,cfav,price,link)" \
-              " VALUES('{}','{}','{}','{}','{}','{}','{}')".format(filed[i]['title'],
+        sql = "INSERT INTO sports(title,img,orgPrice,sale,cfav,price,link,tradeItemId)" \
+              " VALUES('{}','{}','{}','{}','{}','{}','{}','{}')".format(filed[i]['title'],
                                                                    filed[i]['img'], filed[i]['orgPrice'],
                                                                    filed[i]['sale'], filed[i]['cfav'],
-                                                                   filed[i]['price'], filed[i]['link'])
+                                                                   filed[i]['price'], filed[i]['link'],filed[i]['tradeItemId'])
         # 接收唯一索引抛出的重复数据引起的异常
         try:
+            # print(sql)
             cursor.execute(sql)
             db.commit()
         except:
             print('该数据已存在')
+
     # 关闭连接
     db.close()
 
@@ -107,7 +111,8 @@ def main():
         html = get_html(url)
         # 得到json格式数据
         html_content = get_real_content(html)
-        # 将数据转换为json格式
+        print(html_content)
+        # 将json格式数据转换为Python可以操作的数据格式（字典）
         result = json.loads(html_content)
         # 得到当前页是否为最后一页
         flag = result['result']['wall']['isEnd']

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecc458df-998a-4de9-92eb-93c5bea69d5e" name="Default Changelist" comment="">
+    <list default="true" id="6db089d4-db76-4c91-9d76-256a33674325" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Spider/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Spider/txt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spider_jdSeacrh/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spider_jdSeacrh/Spider_jdSeacrh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Spider_jdSeacrh/creat_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider_jdSeacrh.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creat_db.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_anjukeNewHouse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_anjukeNewHouse/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spider_doubanGroupExplore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_doubanGroupExplore/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spider_maoyantop100/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_maoyantop100/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spider_mugujie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_mugujie/.idea/workspace.xml" afterDir="false" />
@@ -19,67 +20,66 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="877523697">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="2" />
-          <entry key="安居客攀枝花新楼" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="688" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="688" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-7527001">
+    <session id="-41398808">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="安居客攀枝花新楼" value="1" />
+          <entry key="1" value="4" />
+          <entry key="py" value="3" />
+          <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="3" />
+          <entry key="SQL" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="1" value="4" />
+          <entry key="py" value="1722" />
+          <entry key="sql" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="1722" />
+          <entry key="SQL" value="39" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spider_jdSeacrh" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spider_anjukeNewHouse.py">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creat_db.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="84">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spider_jdSeacrh.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1109">
+              <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
               <folding>
-                <element signature="e#164#175#0" expanded="true" />
-                <marker date="1540286226450" expanded="true" signature="250:1412" ph="..." />
+                <element signature="e#158#169#0" expanded="true" />
+                <marker date="1540473902618" expanded="true" signature="5085:5087" ph="..." />
               </folding>
             </state>
           </provider>
@@ -94,21 +94,28 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gl-i-wrap</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Spider_anjukeNewHouse.py" />
+        <option value="$PROJECT_DIR$/1" />
+        <option value="$PROJECT_DIR$/creat_db.sql" />
+        <option value="$PROJECT_DIR$/Spider_jdSeacrh.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-5" />
-    <option name="y" value="141" />
-    <option name="width" value="1890" />
-    <option name="height" value="865" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="410" />
+    <option name="y" value="90" />
+    <option name="width" value="1415" />
+    <option name="height" value="810" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -116,22 +123,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Spider_anjukeNewHouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spider_anjukeNewHouse" type="462c0819:PsiDirectoryNode" />
+              <item name="Spider_jdSeacrh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Spider_jdSeacrh" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spider_mugujie" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Spider\Spider_jdSeacrh" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -146,8 +159,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Spider_anjukeNewHouse" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Spider_anjukeNewHouse" />
+    <configuration name="Spider_jdSeacrh" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Spider_jdSeacrh" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -158,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider_anjukeNewHouse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spider_jdSeacrh.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +182,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Spider_anjukeNewHouse" />
+        <item itemvalue="Python.Spider_jdSeacrh" />
       </list>
     </recent_temporary>
   </component>
@@ -178,32 +191,32 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ecc458df-998a-4de9-92eb-93c5bea69d5e" name="Default Changelist" comment="" />
-      <created>1540280436113</created>
+      <changelist id="6db089d4-db76-4c91-9d76-256a33674325" name="Default Changelist" comment="" />
+      <created>1540437598860</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1540280436113</updated>
+      <updated>1540437598860</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14531043" />
+      <window_info id="Favorites" sideWeight="0.5010395" side_tool="true" weight="0.07133421" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989605" visible="true" weight="0.07133421" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.37181208" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.37315437" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -213,23 +226,34 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/1130727989/builtins.py">
+    <entry file="file://E:/env/Spider/Lib/site-packages/selenium/webdriver/chrome/options.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="4979" column="8" selection-start-line="4979" selection-start-column="8" selection-end-line="4979" selection-end-column="8" />
+        <state relative-caret-position="82">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/安居客攀枝花新楼">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Spider_anjukeNewHouse.py">
+    <entry file="file://$PROJECT_DIR$/1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="112">
+          <caret line="4" column="60" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creat_db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spider_jdSeacrh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1109">
+          <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
           <folding>
-            <element signature="e#164#175#0" expanded="true" />
-            <marker date="1540286226450" expanded="true" signature="250:1412" ph="..." />
+            <element signature="e#158#169#0" expanded="true" />
+            <marker date="1540473902618" expanded="true" signature="5085:5087" ph="..." />
           </folding>
         </state>
       </provider>
