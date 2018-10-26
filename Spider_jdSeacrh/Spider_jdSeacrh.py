@@ -22,11 +22,14 @@ browser = webdriver.Chrome(chrome_options=chrome_options)
 
 # 指定自启浏览器界面大小
 browser.set_window_size(1400, 700)
-# 设置休眠时间
+# 显式等待  针对整个节点的等待
 wait = WebDriverWait(browser, 3)
 # 设置关键字
 KEYWORD = '古风'
 
+
+# 隐式等待（不推荐使用）
+# browser.implicitly_wait(3)
 
 # 模拟切换页面
 def get_page(page):
@@ -35,20 +38,7 @@ def get_page(page):
         url = 'https://search.jd.com/Search?keyword=%s&enc=utf-8' % quote(KEYWORD)
         # 访问地址
         browser.get(url)
-        # 随机等待时间
-        t = random.randint(0, 9)
-        # 分六次滚动页面
-        for i in range(6):
-            str_js = 'var step = document.body.scrollHeight/6;window.scrollTo(0,step*%d)' % (i + 1)
-            browser.execute_script(str_js)
-            time.sleep(t)
     if page > 1:
-        # 分六次滚动页面
-        t = random.randint(0, 9)
-        for i in range(6):
-            str_js = 'var step = document.body.scrollHeight/6;window.scrollTo(0,step*%d)' % (i + 1)
-            browser.execute_script(str_js)
-            time.sleep(t)
         # 获取页数输入框
         input = wait.until(
             EC.presence_of_element_located((By.CSS_SELECTOR, '#J_bottomPage input.input-txt')))
@@ -64,7 +54,13 @@ def get_page(page):
         wait.until(
             EC.text_to_be_present_in_element((By.CSS_SELECTOR, '#J_bottomPage a.curr'), str(page)))
         wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, '#J_goodsList')))
-
+    # 随机等待时间
+    t = random.randint(0, 9)
+    # 分六次滚动页面
+    for i in range(6):
+        str_js = 'var step = document.body.scrollHeight/6;window.scrollTo(0,step*%d)' % (i + 1)
+        browser.execute_script(str_js)
+        time.sleep(t)
     # 得到访问的页面内容
     page_source = browser.page_source
     return page_source
@@ -115,7 +111,7 @@ def parse_page(page_source):
         if goods_img:
             item['img'] = goods_img[0]
         else:
-            item['img'] =''
+            item['img'] = ''
         # 解析商品链接
         goods_link = goods.xpath('.//div[@class="p-img"]/a/@href')
         # print(goods_link)
@@ -138,9 +134,9 @@ def join_MySql(goods_db):
     for i in range(len(goods_db)):
         sql = "INSERT INTO seacrh_gufeng(sku,title,price,shop,commit,img,link)" \
               " VALUES('{}','{}','{}','{}','{}','{}','{}')".format(goods_db[i]['sku'], goods_db[i]['title'],
-                                                                  goods_db[i]['price'], goods_db[i]['shop'],
-                                                                  goods_db[i]['commit'],
-                                                                  goods_db[i]['img'], goods_db[i]['link'])
+                                                                   goods_db[i]['price'], goods_db[i]['shop'],
+                                                                   goods_db[i]['commit'],
+                                                                   goods_db[i]['img'], goods_db[i]['link'])
         # print(sql)
         try:
             cursor.execute(sql)

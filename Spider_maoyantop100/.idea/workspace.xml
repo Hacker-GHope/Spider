@@ -2,8 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7befec44-42db-4d0a-a6d9-3ad54c1a92bd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Spider_mugujie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_mugujie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_mugujie/sports.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_mugujie/sports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/Spider_paresAuthCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/captcha1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/captcha2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/chaojiying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/img_bm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/img_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/jiyan_bilibili.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/jiyan_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/yzm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/.idea/Spider_xiamiTop100.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/Spider_xiamiTop100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/img_kaisa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/kaisa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/虾米Top100" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_jdSeacrh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_jdSeacrh/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_jdSeacrh/Spider_jdSeacrh.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_jdSeacrh/Spider_jdSeacrh.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,14 +90,23 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1739916873">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manyan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1428">
-              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+            <state relative-caret-position="164">
+              <caret line="55" column="29" lean-forward="true" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
               <folding>
                 <element signature="e#149#160#0" expanded="true" />
                 <marker date="1540202131102" expanded="true" signature="207:532" ph="..." />
@@ -125,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,6 +168,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,7 +266,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15389696" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14993395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -281,8 +313,8 @@
     <entry file="file://$PROJECT_DIR$/text.py" />
     <entry file="file://$PROJECT_DIR$/manyan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        <state relative-caret-position="164">
+          <caret line="55" column="29" lean-forward="true" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
           <folding>
             <element signature="e#149#160#0" expanded="true" />
             <marker date="1540202131102" expanded="true" signature="207:532" ph="..." />

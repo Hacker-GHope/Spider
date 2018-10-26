@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6db089d4-db76-4c91-9d76-256a33674325" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Spider/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider/.idea/Spider_taobaoSearch.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider/txt.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/Spider_paresAuthCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/img_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/jiyan_bilibili.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/jiyan_result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/Spider_xiamiTop100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/img_kaisa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_xiamiTop100/kaisa.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spider_jdSeacrh.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider_jdSeacrh.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_mugujie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_mugujie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_maoyantop100/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_maoyantop100/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,38 +27,39 @@
     <session id="-41398808">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="1" value="4" />
-          <entry key="py" value="3" />
+          <entry key="py" value="4" />
           <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="3" />
+          <entry key="Python" value="4" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="1" value="4" />
-          <entry key="py" value="1722" />
+          <entry key="py" value="1758" />
           <entry key="sql" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="1722" />
+          <entry key="Python" value="1758" />
           <entry key="SQL" value="39" />
         </counts>
       </usages-collector>
@@ -77,11 +82,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Spider_jdSeacrh.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3976">
-              <caret line="142" column="66" selection-start-line="142" selection-start-column="66" selection-end-line="142" selection-end-column="66" />
+            <state relative-caret-position="234">
+              <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="62" selection-end-column="21" />
               <folding>
                 <element signature="e#158#169#0" expanded="true" />
-                <marker date="1540518036192" expanded="true" signature="5084:5086" ph="..." />
+                <marker date="1540522291445" expanded="true" signature="4865:4867" ph="..." />
               </folding>
             </state>
           </provider>
@@ -113,11 +118,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="410" />
-    <option name="y" value="90" />
-    <option name="width" value="1415" />
-    <option name="height" value="810" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="70" />
+    <option name="y" value="130" />
+    <option name="width" value="1890" />
+    <option name="height" value="865" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -125,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,11 +142,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spider_mugujie" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -202,10 +207,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989605" visible="true" weight="0.07133421" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989605" visible="true" weight="0.14332893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5010395" side_tool="true" weight="0.07133421" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,6 +241,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1" />
+    <entry file="file://E:/env/Spider/Lib/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/creat_db.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -245,11 +257,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Spider_jdSeacrh.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3976">
-          <caret line="142" column="66" selection-start-line="142" selection-start-column="66" selection-end-line="142" selection-end-column="66" />
+        <state relative-caret-position="234">
+          <caret line="56" column="4" lean-forward="true" selection-start-line="56" selection-start-column="4" selection-end-line="62" selection-end-column="21" />
           <folding>
             <element signature="e#158#169#0" expanded="true" />
-            <marker date="1540518036192" expanded="true" signature="5084:5086" ph="..." />
+            <marker date="1540522291445" expanded="true" signature="4865:4867" ph="..." />
           </folding>
         </state>
       </provider>
