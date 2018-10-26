@@ -6,7 +6,6 @@
 # @Software: PyCharm
 import time
 import random
-
 import pymysql
 from selenium import webdriver
 from selenium.webdriver.common.by import By
