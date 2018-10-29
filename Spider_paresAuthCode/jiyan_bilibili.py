@@ -15,7 +15,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 EMAIL = '1638327522@qq.com'
-PASSWORD = 'GHope666'
+PASSWORD = 'woyaohc'
 BORDER = 6
 INIT_LEFT = 60
 # 设置无头浏览器
@@ -191,13 +191,13 @@ class CrackBilibili():
     def crack(self):
         # 输入用户名密码
         self.open()
-        # 点击验证按钮
+        # 点按验证按钮
         button = self.get_geetest_button()
         print(button)
         time.sleep(3)
         ActionChains(self.browser).move_to_element(button).perform()
         time.sleep(3)
-        # # 获取验证码图片
+        # 获取验证码图片
         image1 = self.get_geetest_image('captcha1.png')
         # 点按呼出缺口
         slider = self.get_slider()
