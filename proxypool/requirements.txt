@@ -1,0 +1,5 @@
+pip install aiohttp
+pip install flask
+pip install redis
+pip install requests
+pip install pyquery
