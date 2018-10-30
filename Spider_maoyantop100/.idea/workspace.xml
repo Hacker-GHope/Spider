@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7befec44-42db-4d0a-a6d9-3ad54c1a92bd" name="Default Changelist" comment="" />
+    <list default="true" id="7befec44-42db-4d0a-a6d9-3ad54c1a92bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/download_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/test_requests_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/test_selenium_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/test_urllib_proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/examples/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/examples/proxytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/importer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxy provider.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/getter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/importer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/scheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/tester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxypool/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,10 +97,10 @@
     <session id="1739916873">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
     </session>
@@ -80,8 +110,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/manyan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+            <state relative-caret-position="332">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
                 <element signature="e#149#160#0" expanded="true" />
                 <marker date="1540202131102" expanded="true" signature="207:532" ph="..." />
@@ -147,7 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spider_jdSeacrh" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -240,6 +270,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14993395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -288,8 +319,8 @@
     <entry file="file://$PROJECT_DIR$/text.py" />
     <entry file="file://$PROJECT_DIR$/manyan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+        <state relative-caret-position="332">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           <folding>
             <element signature="e#149#160#0" expanded="true" />
             <marker date="1540202131102" expanded="true" signature="207:532" ph="..." />

@@ -4,31 +4,28 @@
 # @Email   : 1638327522@qq.com
 # @File    : download_images.py
 # @Software: PyCharm
-import random
-from selenium import webdriver
+from io import BytesIO
+import requests
+from PIL import Image
 
 
-# 无头浏览器
-chrome_options = webdriver.ChromeOptions()
-chrome_options.add_argument('--headless')
-# 启动浏览器
-browser = webdriver.Chrome(chrome_options=chrome_options)
-# 指定自启浏览器界面大小
-browser.set_window_size(1920, 1080)
+def write_image(url):
+    r = requests.get(url)
+    filename = url.split('?')[-1][-3:]
+    img_content = r.content
+    img = Image.open(BytesIO(img_content))
+    for j in range(4):
+        rotate_img = img.crop((76 * j, 0, 76 * (j + 1), 76))
+        rotate_img.save('./images/%s%d.png' % (filename,j))
+    # with open(filename, "wb") as f:
+    #     f.write(r.content)
 
-
-
-def get_page(time):
-    url = 'http://www.1kkk.com/'+str(time)
-    browser.get(url)
-    html = browser.page_source
-    return html
 
 def main():
-    for i in range(500):
-        time = 'image3.ashx?t=1540803643' + str(random.randint(0, 999))
-        img = get_page(time)
-
+    for i in range(361):
+        time = 'image3.ashx?t=1540803643' + str(i).rjust(3,'0')
+        url = 'http://www.1kkk.com/' + str(time)
+        write_image(url)
 
 
 if __name__ == '__main__':
