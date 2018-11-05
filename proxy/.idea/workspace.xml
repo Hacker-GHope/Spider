@@ -2,31 +2,62 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57db110e-c6db-441c-a534-eff63b0ab675" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_requests_proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_selenium_proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_urllib_proxy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/examples/example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/examples/proxytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/importer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxy provider.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/getter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/importer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/scheduler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/setting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/proxypool/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxypool/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CtripHotels/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spider_qichamao/join_mongo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoyan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoyan/maoyan/DB/mysql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maoyan/maoyan/modles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/youyaoqi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youyaoqi/youyaoqi/DB/mysql.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0000.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0000.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0001.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0002.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0002.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0003.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0010.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0011.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0011.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0012.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0012.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0013.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0013.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0020.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0020.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0021.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0021.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0022.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0022.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0023.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0023.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0030.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0030.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0031.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0031.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0032.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0032.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0033.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0033.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0040.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0040.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0041.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0041.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0042.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0042.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0043.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0043.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0050.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0050.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0051.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0051.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0052.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0052.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0053.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0053.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0060.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0060.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0061.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0061.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0062.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0062.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0063.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0063.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0070.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0070.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0071.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0071.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0072.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0072.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0073.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0073.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0080.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0080.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0082.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0082.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0083.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0083.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0090.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0090.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0091.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0091.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0092.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0092.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0093.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0093.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_jdSeacrh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_jdSeacrh/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_paresAuthCode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_qichamao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_qichamao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_qichamao/qichamao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_qichamao/qichamao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,40 +69,62 @@
     <session id="-746225122">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="12" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_selenium_proxy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state>
+              <caret selection-end-line="6" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_urllib_proxy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_requests_proxy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -84,14 +137,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_urllib_proxy.py" />
         <option value="$PROJECT_DIR$/test_selenium_proxy.py" />
+        <option value="$PROJECT_DIR$/test_urllib_proxy.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="410" />
-    <option name="y" value="90" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1415" />
     <option name="height" value="810" />
   </component>
@@ -114,6 +167,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proxypool" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -147,15 +203,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13077939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -163,6 +214,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -172,9 +227,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_requests_proxy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://E:/env/Spider/Lib/site-packages/selenium/webdriver/chrome/options.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -185,6 +237,20 @@
     <entry file="file://F:/MyDownloads/Spider/ProxyPool-master/proxypool/setting.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_selenium_proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_requests_proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_urllib_proxy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -192,13 +258,6 @@
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_selenium_proxy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,7 @@
+create table yaoqi(
+    yaoqi_id integer auto_increment primary key,
+    comic_id varchar(512),
+    name varchar(512),
+    cover varchar(2048),
+    category varchar(512)
+);

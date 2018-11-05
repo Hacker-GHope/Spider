@@ -5,7 +5,7 @@
 # @File    : qichamao.py
 # @Software: PyCharm
 import json
-
+from join_mongo import insert_company
 import requests
 from lxml import etree
 
@@ -49,6 +49,7 @@ class Qichamao:
     def parse_result(self, json_text):
         result_json = json.loads(json_text)
         result_list = result_json['dataList']
+        insert_company(result_list)
         for data in result_list:
             print(data['CompanyName'])
 
@@ -60,7 +61,7 @@ def main():
     print('page:1')
     print('*' * 20)
     for item in result:
-        print(str(item[0]['company_name']))
+        print(str(item['company_name']))
     for i in range(1, 100):
         print('page:%d' % (i + 1))
         print('*' * 20)
