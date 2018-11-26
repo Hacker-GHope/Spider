@@ -2,59 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2483299-bd63-4462-b5cb-09d7eb45b98f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spider_qichamao/join_mongo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maoyan/DB/mysql.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maoyan/modles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youyaoqi/.idea/youyaoqi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../youyaoqi/youyaoqi/DB/mysql.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0000.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0001.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0002.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0002.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0003.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0003.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0010.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0011.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0012.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0012.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0013.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0013.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0020.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0020.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0021.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0021.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0022.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0022.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0023.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0030.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0030.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0031.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0031.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0032.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0032.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0033.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0033.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0040.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0040.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0041.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0041.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0042.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0042.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0043.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0043.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0050.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0050.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0051.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0051.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0052.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0052.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0053.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0053.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0060.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0060.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0061.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0061.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0062.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0062.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0063.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0063.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0070.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0070.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0071.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0071.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0072.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0072.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0073.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0073.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0080.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0080.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0082.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0082.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0083.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0083.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0090.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0090.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0091.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0091.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0092.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0092.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0093.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_1kkkRotate/images/0093.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_jdSeacrh/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_jdSeacrh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../baijiaxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CtripHotels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CtripHotels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CtripHotels/CtripHotels/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CtripHotels/CtripHotels/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CtripHotels/CtripHotels/spiders/xiecheng.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CtripHotels/CtripHotels/spiders/xiecheng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_qichamao/.idea/Spider_qichamao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_qichamao/.idea/Spider_qichamao.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spider_qichamao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_qichamao/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spider_qichamao/qichamao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_qichamao/qichamao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,25 +40,26 @@
     <session id="1106178530">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="2" />
-          <entry key="json" value="20" />
-          <entry key="py" value="10" />
-          <entry key="txt" value="2" />
+          <entry key="json" value="21" />
+          <entry key="py" value="15" />
+          <entry key="txt" value="3" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JSON" value="20" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="10" />
+          <entry key="JSON" value="21" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="15" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -124,17 +80,47 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/maoyan/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="48" lean-forward="true" selection-start-line="15" selection-end-line="48" />
+            <state relative-caret-position="1260">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="e#194#208#0" expanded="true" />
                 <marker date="1541057336716" expanded="true" signature="939:1161" ph="..." />
                 <marker date="1541057336716" expanded="true" signature="1759:1790" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maoyan/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2856">
+              <caret line="102" selection-start-line="102" selection-end-line="103" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/maoyan/spiders/cat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="61" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maoyan/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -164,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="70" />
     <option name="y" value="130" />
     <option name="width" value="1890" />
@@ -176,6 +162,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,11 +179,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../youyaoqi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -253,10 +239,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10832232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14332893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -267,7 +253,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.17449665" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.7225201" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -279,31 +265,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/result.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/result.xml" />
     <entry file="file://$PROJECT_DIR$/result.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maoyan/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maoyan/modles.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <marker date="1541055559154" expanded="true" signature="199:204" ph="..." />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/maoyan/DB/mysql.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -312,28 +283,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2315" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maoyan/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#194#208#0" expanded="true" />
+            <marker date="1541057336716" expanded="true" signature="939:1161" ph="..." />
+            <marker date="1541057336716" expanded="true" signature="1759:1790" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/maoyan/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="95" selection-start-line="95" selection-end-line="100" selection-end-column="23" />
+        <state relative-caret-position="2856">
+          <caret line="102" selection-start-line="102" selection-end-line="103" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maoyan/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maoyan/spiders/cat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/maoyan/pipelines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="48" lean-forward="true" selection-start-line="15" selection-end-line="48" />
+        <state relative-caret-position="529">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="61" />
           <folding>
-            <element signature="e#194#208#0" expanded="true" />
-            <marker date="1541057336716" expanded="true" signature="939:1161" ph="..." />
-            <marker date="1541057336716" expanded="true" signature="1759:1790" ph="..." />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>

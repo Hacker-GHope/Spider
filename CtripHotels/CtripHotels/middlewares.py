@@ -68,7 +68,7 @@ class CtriphotelsDownloaderMiddleware(object):
     # passed objects.
 
     def __init__(self, timeout):
-        # 无头浏览器
+        # 伪装浏览器
         chrome_options = webdriver.ChromeOptions()
         chrome_options.add_argument(
             'user-agent="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.3214.0 Safari/537.36"')

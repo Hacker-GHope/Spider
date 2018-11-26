@@ -41,6 +41,7 @@ class YouyaoqiMySQLPipeline(object):
         print('-' * 20)
         print(sql)
 
+
         self.cursor.execute(sql)
         self.db.commit()
         return item

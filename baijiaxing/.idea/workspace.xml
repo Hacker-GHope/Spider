@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="346f1ffd-1cf1-4bd9-b68f-b40aa489c8e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/baijiaxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/spiders/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baijiaxing/spiders/xing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/surname.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.idea/book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book/items.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book/middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book/pipelines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book/spiders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/book/spiders/douban.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../book/scrapy.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CtripHotels/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CtripHotels/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CtripHotels/CtripHotels/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CtripHotels/CtripHotels/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CtripHotels/CtripHotels/spiders/xiecheng.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CtripHotels/CtripHotels/spiders/xiecheng.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_qichamao/.idea/Spider_qichamao.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_qichamao/.idea/Spider_qichamao.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spider_qichamao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spider_qichamao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maoyan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maoyan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youyaoqi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../youyaoqi/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youyaoqi/youyaoqi/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../youyaoqi/youyaoqi/pipelines.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1079566491">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="1" />
+          <entry key="json" value="38" />
+          <entry key="py" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="38" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="900" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="900" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baijiaxing/spiders/xing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+                <marker date="1542973426901" expanded="true" signature="3896:3905" ph="..." />
+                <marker date="1542973426901" expanded="true" signature="3896:3920" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/baijiaxing/settings.py" />
+        <option value="$PROJECT_DIR$/baijiaxing.json" />
+        <option value="$PROJECT_DIR$/xing.json" />
+        <option value="$PROJECT_DIR$/baijiaxing/spiders/text.py" />
+        <option value="$PROJECT_DIR$/xingname.json" />
+        <option value="$PROJECT_DIR$/baijiaxing/items.py" />
+        <option value="$PROJECT_DIR$/baijiaxing/spiders/xing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="410" />
+    <option name="y" value="90" />
+    <option name="width" value="1415" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="baijiaxing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baijiaxing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baijiaxing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baijiaxing" type="462c0819:PsiDirectoryNode" />
+              <item name="baijiaxing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="baijiaxing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="baijiaxing" type="462c0819:PsiDirectoryNode" />
+              <item name="baijiaxing" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../youyaoqi" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="baijiaxing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baijiaxing/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baijiaxing/spiders/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346f1ffd-1cf1-4bd9-b68f-b40aa489c8e8" name="Default Changelist" comment="" />
+      <created>1542770958954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542770958954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12813738" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.26308724" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baijiaxing.json" />
+    <entry file="file://E:/env/Spider/Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baijiaxing/spiders/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baijiaxing/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-588">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baijiaxing/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baijiaxing/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="49" column="28" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baijiaxing/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/surname.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/name.json">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="31257" column="24" lean-forward="true" selection-start-line="31257" selection-start-column="24" selection-end-line="31257" selection-end-column="24" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="201">
+          <caret line="31256" column="32" selection-start-line="31256" selection-start-column="32" selection-end-line="31256" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baijiaxing/spiders/xing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+            <marker date="1542973426901" expanded="true" signature="3896:3905" ph="..." />
+            <marker date="1542973426901" expanded="true" signature="3896:3920" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

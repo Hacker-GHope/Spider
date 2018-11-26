@@ -8,6 +8,8 @@ class XiechengSpider(scrapy.Spider):
     allowed_domains = ['ctrip.com']
     start_urls = ['http://hotels.ctrip.com/hotel/chengdu28#ctm_ref=hod_hp_sb_lst']
 
+
+
     def parse(self, response):
        results = response.xpath('//div[@id="hotel_list"]//ul[@class="hotel_item"]')
        for result in results:
